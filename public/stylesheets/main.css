@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+.img-thumbnail img{
+    width: 100%;
+}
+
+.table{
+    margin-top: 5px;
+}
+
+.img-thumbnail{
+    padding: 0;
+}
+
+.img-thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
